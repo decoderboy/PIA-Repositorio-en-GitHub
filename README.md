@@ -25,3 +25,5 @@ Tomando como base el script scan_portv3 visto en la sesion de practica se creo u
 ### || TAREA8_1918865 || Creando ejecutables
 Se baso en el codigo python de este sitio [https://blog.nubecolectiva.com/como-crear-nuestro-primer-programa-o-software-ejecutable-con-python/](https://blog.nubecolectiva.com/como-crear-nuestro-primer-programa-o-software-ejecutable-con-python/)
 para la creacion de un reloj
+
+#### AUTHOR: Ivan Reyes
